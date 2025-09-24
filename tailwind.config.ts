@@ -31,6 +31,17 @@ export default {
 					dark: '#1E40AF',
 					gray: '#6B7280'
 				},
+				pharmacy: {
+					primary: '#1E40AF',
+					secondary: '#3B82F6',
+					success: '#10B981',
+					warning: '#F59E0B',
+					danger: '#EF4444',
+					bg: '#F8FAFC',
+					light: '#EBF8FF',
+					dark: '#1E293B',
+					gray: '#64748B',
+				},
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
